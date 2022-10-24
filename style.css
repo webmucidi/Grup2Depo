@@ -1,0 +1,29 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    width:100vw;
+    border: 10px;
+    border-radius: 10px;
+    background-color: bisque;
+}
+header{
+    height:10vh;
+    background-color: aquamarine;
+}
+article{
+    height:60vh;
+}
+main{
+    display: flex;
+    justify-content: space-between;
+    background-color: blue;
+    height: 30vh;
+}
+main section{
+    width:30vw;
+background-color: brown;
+}
