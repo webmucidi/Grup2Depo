@@ -20,7 +20,7 @@ article{
 main{
     display: flex;
     justify-content: space-between;
-    background-color: blue;
+    background-color: #a2a2b3;
     height: 30vh;
 }
 main section{
